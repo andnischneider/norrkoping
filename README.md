@@ -5,12 +5,11 @@ This repository contains R scripts for parts of the preprocessing and analysis d
 
 ## PLFA Analysis
 
-The data needed for this analysis can be downloaded from ...
+The data needed for this analysis is also included in this repository.
 
 ## Sequencing Data analysis
 
-The raw data is stored in the european nucleotide archive (ENA) with accession PRJEB74806, and was preprocessed using dada2 and a modified version of the snakemake workflow available here: 
+The raw data is stored in the european nucleotide archive (ENA) with accession PRJEB74806, and was preprocessed using dada2 and a modified version of the snakemake workflow available [here](https://github.com/andnischneider/its_workflow)
 
-For reproductive purposes, the preprocessed data has been published [here](LINK), and can be further preprocessed using the R script Preprocessing.R from this repository.
+For reproductive purposes, the preprocessed data has been included in this repository, and can be further preprocessed using the R script Preprocessing.R from this repository.
 
-Completely preprocessed data has also been published [here](LINK2), and can be directly input into the R script from the section subfolders. 
