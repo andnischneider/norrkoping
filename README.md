@@ -5,7 +5,7 @@ This repository contains R scripts for parts of the preprocessing and analysis d
 
 ## PLFA Analysis
 
-The data needed for this analysis is also included in this repository.
+The data needed for this analysis can be downloaded [here](https://zenodo.org/records/15348074).
 
 ## Sequencing Data analysis
 
